@@ -1,0 +1,22 @@
+# Build outputs
+build/
+build*/
+*.exe
+*.obj
+*.log
+*.err
+*.bmp
+*.png
+# Python
+__pycache__/
+*.pyc
+# Game-derived binaries (regenerate with SPU_DUMP_MISS; never commit)
+spudump/
+*.bin
+*.elf
+*.EBOOT.BIN
+*.pkg
+*.rap
+# Local notes
+.vs/
+.idea/

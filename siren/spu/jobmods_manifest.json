@@ -1,0 +1,210 @@
+[
+  {
+    "name": "jobmod_4ef11d3e0e04_e0C70",
+    "prefix": "jobmod_4ef11d3e0e04_e0C70_",
+    "base": 16384,
+    "entry": 19568,
+    "entry_off": 3184,
+    "sig": "4239ce024370f28243e74502423d7f82",
+    "size": 3600,
+    "funcs": 205,
+    "unsupported": 0,
+    "ea": 6672256,
+    "eas": [
+      6672256
+    ],
+    "code_end": 19888
+  },
+  {
+    "name": "jobmod_4b4a0c1abf0d_e7948",
+    "prefix": "jobmod_4b4a0c1abf0d_e7948_",
+    "base": 16384,
+    "entry": 47432,
+    "entry_off": 31048,
+    "sig": "43e79c024307fc824394990242868982",
+    "size": 32384,
+    "funcs": 569,
+    "unsupported": 0,
+    "ea": 6675968,
+    "eas": [
+      6675968
+    ],
+    "code_end": 47772
+  },
+  {
+    "name": "jobmod_cc5e94a74e78_e3708",
+    "prefix": "jobmod_cc5e94a74e78_e3708_",
+    "base": 16384,
+    "entry": 30472,
+    "entry_off": 14088,
+    "sig": "a122e6a20123456712345670a122e6a2",
+    "size": 15136,
+    "funcs": 691,
+    "unsupported": 3,
+    "ea": 6708480,
+    "eas": [
+      6708480
+    ],
+    "code_end": 31188
+  },
+  {
+    "name": "jobmod_a51bf9545953_e2AF8",
+    "prefix": "jobmod_a51bf9545953_e2AF8_",
+    "base": 16384,
+    "entry": 27384,
+    "entry_off": 11000,
+    "sig": "a122e6a20123456712345670a122e6a2",
+    "size": 15504,
+    "funcs": 762,
+    "unsupported": 3,
+    "ea": 6723712,
+    "eas": [
+      6723712
+    ],
+    "code_end": 27704
+  },
+  {
+    "name": "jobmod_e2a7d0ddf0c8_e04C8",
+    "prefix": "jobmod_e2a7d0ddf0c8_e04C8_",
+    "base": 16384,
+    "entry": 17608,
+    "entry_off": 1224,
+    "sig": "42c9e00243047e8242d5ad024308e582",
+    "size": 1680,
+    "funcs": 171,
+    "unsupported": 0,
+    "ea": 6739328,
+    "eas": [
+      6739328
+    ],
+    "code_end": 17928
+  },
+  {
+    "name": "jobmod_1dc0e358ed98_e2CA0",
+    "prefix": "jobmod_1dc0e358ed98_e2CA0_",
+    "base": 16384,
+    "entry": 27808,
+    "entry_off": 11424,
+    "sig": "43514602438b0682439a870242c41582",
+    "size": 11920,
+    "funcs": 449,
+    "unsupported": 0,
+    "ea": 6741120,
+    "eas": [
+      6741120
+    ],
+    "code_end": 28128
+  },
+  {
+    "name": "jobmod_dab1bc236c4e_e1A10",
+    "prefix": "jobmod_dab1bc236c4e_e1A10_",
+    "base": 16384,
+    "entry": 23056,
+    "entry_off": 6672,
+    "sig": "42ef70024293c08243d9c702429d3982",
+    "size": 7184,
+    "funcs": 309,
+    "unsupported": 0,
+    "ea": 6753152,
+    "eas": [
+      6753152
+    ],
+    "code_end": 23376
+  },
+  {
+    "name": "jobmod_42d0cd272490_e1898",
+    "prefix": "jobmod_42d0cd272490_e1898_",
+    "base": 16384,
+    "entry": 22680,
+    "entry_off": 6296,
+    "sig": "42eaac0243f02e82435d7502433a8d82",
+    "size": 6960,
+    "funcs": 556,
+    "unsupported": 0,
+    "ea": 6760448,
+    "eas": [
+      6760448
+    ],
+    "code_end": 23000
+  },
+  {
+    "name": "jobmod_15736c9524c6_e4EB0",
+    "prefix": "jobmod_15736c9524c6_e4EB0_",
+    "base": 16384,
+    "entry": 36528,
+    "entry_off": 20144,
+    "sig": "4399460242a44c8242934f02426bdf82",
+    "size": 21040,
+    "funcs": 636,
+    "unsupported": 0,
+    "ea": 6767488,
+    "eas": [
+      6767488
+    ],
+    "code_end": 36848
+  },
+  {
+    "name": "jobmod_b8922e9611f2_e5060",
+    "prefix": "jobmod_b8922e9611f2_e5060_",
+    "base": 16384,
+    "entry": 36960,
+    "entry_off": 20576,
+    "sig": "43e48a02439ec48243a485024251a782",
+    "size": 21552,
+    "funcs": 649,
+    "unsupported": 0,
+    "ea": 6788608,
+    "eas": [
+      6788608
+    ],
+    "code_end": 37280
+  },
+  {
+    "name": "jobmod_5260b1fadd04_e4EB8",
+    "prefix": "jobmod_5260b1fadd04_e4EB8_",
+    "base": 16384,
+    "entry": 36536,
+    "entry_off": 20152,
+    "sig": "42aa40024226548243c41d0243b80182",
+    "size": 21168,
+    "funcs": 642,
+    "unsupported": 0,
+    "ea": 6810240,
+    "eas": [
+      6810240
+    ],
+    "code_end": 36856
+  },
+  {
+    "name": "jobmod_d57419eb1c49_eA210",
+    "prefix": "jobmod_d57419eb1c49_eA210_",
+    "base": 16384,
+    "entry": 57872,
+    "entry_off": 41488,
+    "sig": "4351b60242725c824243f702428c9182",
+    "size": 43312,
+    "funcs": 1247,
+    "unsupported": 0,
+    "ea": 6831488,
+    "eas": [
+      6831488
+    ],
+    "code_end": 58192
+  },
+  {
+    "name": "jobmod_8a6147f4c3b5_e11490",
+    "prefix": "jobmod_8a6147f4c3b5_e11490_",
+    "base": 16384,
+    "entry": 87184,
+    "entry_off": 70800,
+    "sig": "4327520243555a8242dc370243972382",
+    "size": 75392,
+    "funcs": 579,
+    "unsupported": 0,
+    "ea": 7317888,
+    "eas": [
+      7317888
+    ],
+    "code_end": 87476
+  }
+]
